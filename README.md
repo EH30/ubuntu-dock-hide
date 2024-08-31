@@ -5,11 +5,11 @@ Simple script to hide the dock panel. before running the script turn on "Auto-hi
 Before:
 ![Alt text](./examples/dock-view.png)
 
-After:
+After:   
 turn on "Auto-hide the dock" in settings before running this script.   
 ![Alt text](./examples/settings-before-script.png)
    
-after running the script:   
+After running the script:    
 ![Alt text](./examples/hidden-dock.png)
    
 ![Alt text](./examples/dock-view.png)
