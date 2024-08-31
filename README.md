@@ -9,6 +9,7 @@ After:
 turn on "Auto-hide the dock" in settings before running this script.   
 ![Alt text](./examples/settings-before-script.png)
    
+after running the script:   
 ![Alt text](./examples/hidden-dock.png)
    
 ![Alt text](./examples/dock-view.png)
